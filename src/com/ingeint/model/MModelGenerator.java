@@ -3,7 +3,7 @@ package com.ingeint.model;
 import java.sql.ResultSet;
 import java.util.Properties;
 
-import com.ingient.model.X_ING_ModelGenerator;
+import com.ingeint.model.X_ING_ModelGenerator;
 
 public class MModelGenerator extends X_ING_ModelGenerator {
 	/**
