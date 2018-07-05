@@ -1,27 +1,27 @@
-{plugin name}
+{com.ingeint.modelgenerator}
 =============
 
 Description
 -----------
-{description}
+{This plugin help to create model of your tables into a plugin, migrated from swing ModelGenerator}
 
 
 Features
 --------
-- Copyright: {year} INGEINT <http://www.ingeint.com> and Contributors.
+- Copyright: {2018} INGEINT <http://www.ingeint.com> and Contributors.
 - Repository: {repository url}
 - License: GPL 2
-- Branch: {branch}
+- Branch: {default}
 
 
 Contributors
 ------------
-- {year} {name} <{email}>.
+- {2018} {Orlando Curieles} <{orlando.curieles@ingeint.com}>.
 
 
 Instructions
 ------------
-- {instructions list is exist}
+- {install the plugin and open the Model Generator Window}
 
 
 Documentation

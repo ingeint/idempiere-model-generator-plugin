@@ -23,6 +23,7 @@ public class ModelGenerator extends CustomProcess{
 			table = new MTable(getCtx(), mgen.getING_Table_ID(), get_TrxName());
 			mgen.setTableName(table.getTableName());
 		}
+		
 		ModelInterfaceGenerator.generateSource(mgen.getFolder(), mgen.getPackageName(), mgen.getEntityType(), mgen.getTableName());
 		ModelClassGenerator.generateSource(mgen.getFolder(), mgen.getPackageName(), mgen.getEntityType(), mgen.getTableName());	
 		
