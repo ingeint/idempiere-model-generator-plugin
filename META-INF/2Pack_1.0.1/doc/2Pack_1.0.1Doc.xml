@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="idempiereDocument.css"?><idempiereDocument>
+    <header>2Pack_1.0.1 Package Description</header>
+    <H1>Package Name:</H1>
+    <packagename>2Pack_1.0.1</packagename>
+    <H1>Author:</H1>
+    <Name:/>
+    <H1>Email Address:</H1>
+    <Email>orlando.curieles@ingeint.com</Email>
+    <H1>Created:</H1>
+    <Date>2018-07-04 20:58:19.08</Date>
+    <H1>Updated:</H1>
+    <Date>2018-07-04 20:58:19.08</Date>
+    <H1>Description:</H1>
+    <description>Model Generator directly from IDempiere </description>
+    <H1>Instructions:</H1>
+    <instructions>login as System and open the Model generator windows</instructions>
+    <H1>Files in Package:</H1>
+    <file>File: PackOut.xml</file>
+    <filedirectory>Directory: \dict\</filedirectory>
+    <filenotes>Notes: Contains all application/object settings for package</filenotes>
+    <H1>Client:</H1>
+    <Client>0-SYSTEM-System</Client>
+</idempiereDocument>
